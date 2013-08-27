@@ -26,3 +26,7 @@ RELEASE-VERSION
 .DS_Store
 .idea
 
+# Don't need eclipse garbage
+/.settings
+/.project
+/.pydevproject
